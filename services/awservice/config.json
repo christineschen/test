@@ -1,0 +1,11 @@
+{
+    "name": "awservice",
+    "type": "aws",
+    "config": {
+        "accessKeyId": "asldkfjalskjdflkasjdf"
+    },
+    "secret_config": {
+        "secretAccessKey": "asldkfjasldkfjaldfjads"
+    },
+    "version": 1
+}

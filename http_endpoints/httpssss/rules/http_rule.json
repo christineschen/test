@@ -1,0 +1,15 @@
+{
+    "name": "http_rule",
+    "actions": [
+        "get",
+        "put",
+        "random"
+    ],
+    "when": {
+        "%%args.url.host": {
+            "%in": [
+                "google.com"
+            ]
+        }
+    }
+}

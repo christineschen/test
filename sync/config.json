@@ -1,0 +1,11 @@
+{
+    "type": "flexible",
+    "state": "",
+    "development_mode_enabled": false,
+    "service_name": "new_data_source",
+    "is_recovery_mode_disabled": false,
+    "permissions": {
+        "rules": {},
+        "defaultRoles": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "datafed",
+    "type": "datalake",
+    "config": {
+        "dataLakeName": "FederatedDatabaseInstance0"
+    },
+    "version": 1
+}

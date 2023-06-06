@@ -1,0 +1,11 @@
+{
+    "name": "twil",
+    "type": "twilio",
+    "config": {
+        "sid": "asfljsdflsdsjflsk"
+    },
+    "secret_config": {
+        "auth_token": "sd"
+    },
+    "version": 1
+}

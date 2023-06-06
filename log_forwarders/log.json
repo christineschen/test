@@ -1,0 +1,21 @@
+{
+    "name": "log",
+    "log_types": [
+        "function",
+        "trigger"
+    ],
+    "log_statuses": [
+        "error",
+        "success"
+    ],
+    "policy": {
+        "type": "batch"
+    },
+    "action": {
+        "type": "collection",
+        "data_source": "mongodb-atlas",
+        "database": "sample_analytics",
+        "collection": "accounts"
+    },
+    "disabled": false
+}

@@ -1,0 +1,28 @@
+[
+    {
+        "name": "httpserv_webhook0",
+        "private": false,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "myFunc",
+        "private": true
+    },
+    {
+        "name": "confirmFunc",
+        "private": false,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "confirmFunctd",
+        "private": true
+    },
+    {
+        "name": "dbtrigfunc",
+        "private": true
+    },
+    {
+        "name": "func",
+        "private": false
+    }
+]
