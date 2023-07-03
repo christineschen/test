@@ -9,6 +9,9 @@
         "limit": {
             "bsonType": "int"
         },
+        "name": {
+            "bsonType": "string"
+        },
         "products": {
             "bsonType": "array",
             "items": {
