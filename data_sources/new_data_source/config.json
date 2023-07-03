@@ -2,7 +2,7 @@
     "name": "new_data_source",
     "type": "mongodb-atlas",
     "config": {
-        "clusterName": "Cluster0",
+        "clusterName": "AtlasCluster",
         "readPreference": "primary",
         "wireProtocolEnabled": false
     },
