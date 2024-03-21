@@ -11,7 +11,7 @@
     "event_processors": {
         "FUNCTION": {
             "config": {
-                "function_name": "myFunc"
+                "function_name": "otherFunc"
             }
         }
     }
