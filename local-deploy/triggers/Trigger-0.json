@@ -3,7 +3,7 @@
     "type": "AUTHENTICATION",
     "disabled": false,
     "config": {
-        "operation_type": "LOGIN",
+        "operation_type": "DELETE",
         "providers": [
             "anon-user"
         ]
