@@ -1,11 +1,10 @@
 {
-    "app_id": "0405-kcojk",
+    "app_id": "local-init-ztged",
     "config_version": 20210101,
-    "name": "0405",
-    "location": "US-VA",
+    "name": "local-init",
     "provider_region": "aws-us-east-1",
     "deployment_model": "GLOBAL",
     "allowed_request_origins": [
-        "http://host:9080"
+        "https://localhost:8080"
     ]
 }

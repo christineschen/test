@@ -1,7 +1,3 @@
 {
-    "enabled": false,
-    "mongo_service_name": "mongodb-atlas",
-    "database_name": "sample_geospatial",
-    "collection_name": "shipwrecks",
-    "user_id_field": "other_user"
+    "enabled": false
 }

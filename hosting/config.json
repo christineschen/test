@@ -1,6 +1,3 @@
 {
-    "enabled": true,
-    "app_default_domain": "0405-kcojk.mongodbstitch.com",
-    "default_error_path": "",
-    "default_error_code": ""
+    "enabled": false
 }
