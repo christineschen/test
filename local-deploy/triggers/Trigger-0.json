@@ -3,7 +3,7 @@
     "type": "AUTHENTICATION",
     "disabled": false,
     "config": {
-        "operation_type": "CREATE",
+        "operation_type": "LOGIN",
         "providers": [
             "anon-user"
         ]
