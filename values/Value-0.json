@@ -1,0 +1,7 @@
+{
+    "name": "Value-0",
+    "value": {
+        "helo": "world"
+    },
+    "from_secret": false
+}
