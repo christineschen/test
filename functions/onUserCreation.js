@@ -15,5 +15,5 @@
 */
 
 exports = (user) => {
-  return;
+  return {"a": "b"};
 };
