@@ -19,5 +19,22 @@
             "runConfirmationFunction": false,
             "runResetFunction": true
         }
+    },
+    "oauth2-facebook": {
+        "name": "oauth2-facebook",
+        "type": "oauth2-facebook",
+        "disabled": false,
+        "config": {
+            "clientId": "asldfjalkdsfjal"
+        },
+        "secret_config": {
+            "clientSecret": "asdfalsdf"
+        },
+        "metadata_fields": [
+            {
+                "required": false,
+                "name": "name"
+            }
+        ]
     }
 }
