@@ -3,5 +3,5 @@
     "field_name": "a",
     "function_name": "myCustomResolver",
     "input_type_format": "scalar",
-    "input_type": "string"
+    "input_type": "int"
 }
